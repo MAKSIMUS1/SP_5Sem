@@ -1,0 +1,5 @@
+﻿  OS11_03.cpp
+D:\BSTU\Kurs_3_1\SP(Smelof)\DLL\OS11_HTAPI\Element.h(17,3): warning C4091: __declspec(dllexport): пропускается слева от "ht::Element", когда ни одна переменная не объявлена
+D:\BSTU\Kurs_3_1\SP(Smelof)\DLL\OS11_HTAPI\HT.h(41,3): warning C4091: __declspec(dllexport): пропускается слева от "ht::HtHandle", когда ни одна переменная не объявлена
+D:\BSTU\Kurs_3_1\SP(Smelof)\DLL\OS11_03\OS11_03.cpp(32,69): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+  OS11_03.vcxproj -> D:\BSTU\Kurs_3_1\SP(Smelof)\DLL\x64\Debug\OS11_03.exe

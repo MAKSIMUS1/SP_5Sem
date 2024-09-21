@@ -1,0 +1,5 @@
+﻿  main.cpp
+D:\BSTU\Kurs_3_1\SP(Smelof)\HT_USER_COM_DLL\OS_Lab14\OS_0404\main.cpp(64,121): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+D:\BSTU\Kurs_3_1\SP(Smelof)\HT_USER_COM_DLL\OS_Lab14\OS_0404\main.cpp(70,88): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+D:\BSTU\Kurs_3_1\SP(Smelof)\HT_USER_COM_DLL\OS_Lab14\OS_0404\main.cpp(27): warning C4172: возвращение адреса локальной или временной переменной : wc
+  OS_0404.vcxproj -> D:\BSTU\Kurs_3_1\SP(Smelof)\HT_USER_COM_DLL\OS_Lab14\x64\Debug\OS_0404.exe

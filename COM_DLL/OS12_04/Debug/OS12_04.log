@@ -1,0 +1,9 @@
+﻿  OS12_04.cpp
+OS12_04.obj : error LNK2019: ссылка на неразрешенный внешний символ "void * __cdecl OS12::Init(void)" (?Init@OS12@@YAPAXXZ) в функции _main.
+OS12_04.obj : error LNK2019: ссылка на неразрешенный внешний символ "double __cdecl OS12::Adder::Add(void *,double,double)" (?Add@Adder@OS12@@YANPAXNN@Z) в функции _main.
+OS12_04.obj : error LNK2019: ссылка на неразрешенный внешний символ "double __cdecl OS12::Adder::Sub(void *,double,double)" (?Sub@Adder@OS12@@YANPAXNN@Z) в функции _main.
+OS12_04.obj : error LNK2019: ссылка на неразрешенный внешний символ "double __cdecl OS12::Multiplier::Mul(void *,double,double)" (?Mul@Multiplier@OS12@@YANPAXNN@Z) в функции _main.
+OS12_04.obj : error LNK2019: ссылка на неразрешенный внешний символ "double __cdecl OS12::Multiplier::Div(void *,double,double)" (?Div@Multiplier@OS12@@YANPAXNN@Z) в функции _main.
+OS12_04.obj : error LNK2019: ссылка на неразрешенный внешний символ "void __cdecl OS12::Dispose(void *)" (?Dispose@OS12@@YAXPAX@Z) в функции _main.
+..\x64\Debug\OS12_LIB.lib : warning LNK4272: тип компьютера библиотеки "x64" конфликтует с типом целевого компьютера "x86"
+D:\BSTU\Kurs_3_1\SP(Smelof)\COM_DLL\Debug\OS12_04.exe : fatal error LNK1120: неразрешенных внешних элементов: 6
